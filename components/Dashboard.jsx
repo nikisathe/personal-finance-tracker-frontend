@@ -83,7 +83,7 @@ export default function Dashboard({ transactions }) {
 
   return (
     <>
-      <h1 className="text-2xl sm:text-3xl font-bold text-gray-800 bg-white shadow-sm rounded-lg border-b p-4 sm:p-4 mb-4 sm:mb-6">
+      <h1 className="text-2xl sm:text-3xl font-bold text-gray-800 bg-white shadow-sm rounded-lg border-b p-4 sm:p-4 ">
         Dashboard
       </h1>
 
