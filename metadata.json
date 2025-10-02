@@ -1,0 +1,5 @@
+{
+  "name": "Smart Personal Finance Tracker",
+  "description": "An application to track income and expenses, manage budgets, and visualize spending patterns with charts and analytics, helping users gain a clear view of their financial health.",
+  "requestFramePermissions": []
+}
